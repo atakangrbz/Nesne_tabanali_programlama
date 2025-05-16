@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Modler4_Ünite3/1.0.0": {
+        "runtime": {
+          "Modler4_Ünite3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modler4_Ünite3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

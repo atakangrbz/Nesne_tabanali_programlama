@@ -1,0 +1,14 @@
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\bin\Debug\net8.0\Modler4_Ünite3.exe
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\bin\Debug\net8.0\Modler4_Ünite3.deps.json
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\bin\Debug\net8.0\Modler4_Ünite3.runtimeconfig.json
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\bin\Debug\net8.0\Modler4_Ünite3.dll
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\bin\Debug\net8.0\Modler4_Ünite3.pdb
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\obj\Debug\net8.0\Modler4_Ünite3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\obj\Debug\net8.0\Modler4_Ünite3.AssemblyInfoInputs.cache
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\obj\Debug\net8.0\Modler4_Ünite3.AssemblyInfo.cs
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\obj\Debug\net8.0\Modler4_Ünite3.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\obj\Debug\net8.0\Modler4_Ünite3.dll
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\obj\Debug\net8.0\refint\Modler4_Ünite3.dll
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\obj\Debug\net8.0\Modler4_Ünite3.pdb
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\obj\Debug\net8.0\Modler4_Ünite3.genruntimeconfig.cache
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modler4_Ünite3\obj\Debug\net8.0\ref\Modler4_Ünite3.dll
