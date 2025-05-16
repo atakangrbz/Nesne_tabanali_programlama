@@ -27,14 +27,11 @@ namespace Modül6_Ünite1
         {
             try
             {
-                // textBox1 ve textBox2'den sayısal değerleri al
                 int sayi1 = int.Parse(textBox1.Text);
                 int sayi2 = int.Parse(textBox2.Text);
 
-                // Toplama işlemi
                 int toplam = sayi1 + sayi2;
 
-                // Sonucu textBox3'e yaz
                 textBox3.Text = toplam.ToString();
             }
             catch (FormatException)
