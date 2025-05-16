@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VF4Q0p2Wims=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ATAKAN GÜRBÜZ\\source\\repos\\Modül2_Ünite2\\Modül2_Ünite2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ATAKAN GÜRBÜZ\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.203\\microsoft.net.sdk.compilers.toolset.9.0.203.nupkg.sha512",
+    "C:\\Users\\ATAKAN GÜRBÜZ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\ATAKAN GÜRBÜZ\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\ATAKAN GÜRBÜZ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\ATAKAN GÜRBÜZ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.15\\microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
