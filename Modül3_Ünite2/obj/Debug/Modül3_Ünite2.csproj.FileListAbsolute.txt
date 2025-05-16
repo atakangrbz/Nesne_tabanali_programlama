@@ -1,0 +1,10 @@
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül3_Ünite2\bin\Debug\Modül3_Ünite2.exe.config
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül3_Ünite2\bin\Debug\Modül3_Ünite2.exe
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül3_Ünite2\bin\Debug\Modül3_Ünite2.pdb
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül3_Ünite2\obj\Debug\Modül3_Ünite2.csproj.AssemblyReference.cache
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül3_Ünite2\obj\Debug\Modül3_Ünite2.Form1.resources
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül3_Ünite2\obj\Debug\Modül3_Ünite2.Properties.Resources.resources
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül3_Ünite2\obj\Debug\Modül3_Ünite2.csproj.GenerateResource.cache
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül3_Ünite2\obj\Debug\Modül3_Ünite2.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül3_Ünite2\obj\Debug\Modül3_Ünite2.exe
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül3_Ünite2\obj\Debug\Modül3_Ünite2.pdb
