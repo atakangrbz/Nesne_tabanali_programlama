@@ -1,0 +1,14 @@
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\bin\Debug\net8.0\Modül9_Ünite1.exe
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\bin\Debug\net8.0\Modül9_Ünite1.deps.json
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\bin\Debug\net8.0\Modül9_Ünite1.runtimeconfig.json
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\bin\Debug\net8.0\Modül9_Ünite1.dll
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\bin\Debug\net8.0\Modül9_Ünite1.pdb
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\obj\Debug\net8.0\Modül9_Ünite1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\obj\Debug\net8.0\Modül9_Ünite1.AssemblyInfoInputs.cache
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\obj\Debug\net8.0\Modül9_Ünite1.AssemblyInfo.cs
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\obj\Debug\net8.0\Modül9_Ünite1.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\obj\Debug\net8.0\Modül9_Ünite1.dll
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\obj\Debug\net8.0\refint\Modül9_Ünite1.dll
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\obj\Debug\net8.0\Modül9_Ünite1.pdb
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\obj\Debug\net8.0\Modül9_Ünite1.genruntimeconfig.cache
+C:\Users\ATAKAN GÜRBÜZ\source\repos\Modül9_Ünite1\obj\Debug\net8.0\ref\Modül9_Ünite1.dll
